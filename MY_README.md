@@ -14,6 +14,7 @@ Progress
 
 •	Then testing and evaluation
 
+
 Issues
 
 •	Dot issue while parsing; got fixed using Jaffer’s files.
@@ -25,3 +26,8 @@ Issues
 •	Getting 0 FPs and FNs on repeated attempts 
 
 •	Syntax errors in multi hosting attacks and unclear file structure and their usage in paper_experiments folder. Not mentioned anything in readme. 
+
+
+Others
+
+•	Posted issue on gtithub regarding 0 FP and FN.
