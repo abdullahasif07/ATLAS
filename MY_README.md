@@ -32,8 +32,9 @@ Issues
 •	Getting 0 FPs and FNs on repeated attempts 
 
 •	Syntax errors in multi hosting attacks and unclear file structure and their usage in paper_experiments folder. Not mentioned anything in readme. 
+  
 
-•	function deprecation error in multi_preprocess.py (f.next() replaced by next(f)).   
+•	Python 2 syntax found in multi hosting files such as xrange, f.next() so had to replace with Python 3's.
 
 
 Others
