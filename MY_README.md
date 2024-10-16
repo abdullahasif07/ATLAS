@@ -14,6 +14,10 @@ Progress
 
 •	Then testing and evaluation
 
+•	Fixed syntax errors in multipreprocess and ran file successfully.
+
+
+
 
 Issues
 
@@ -23,9 +27,13 @@ Issues
 
 •	Graph generation, sampling and training take the most time
 
+•	Difference in predicted entities.
+
 •	Getting 0 FPs and FNs on repeated attempts 
 
 •	Syntax errors in multi hosting attacks and unclear file structure and their usage in paper_experiments folder. Not mentioned anything in readme. 
+
+•	function deprecation error in multi_preprocess.py (f.next() replaced by next(f)).   
 
 
 Others
