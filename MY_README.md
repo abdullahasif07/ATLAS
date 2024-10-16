@@ -29,12 +29,16 @@ Issues
 
 •	Difference in predicted entities.
 
-•	Getting 0 FPs and FNs on repeated attempts 
+•	Getting 0 FPs and FNs on repeated attempts on my eval file but their eval showing some FPs.
+
 
 •	Syntax errors in multi hosting attacks and unclear file structure and their usage in paper_experiments folder. Not mentioned anything in readme. 
   
-
 •	Python 2 syntax found in multi hosting files such as xrange, f.next() so had to replace with Python 3's.
+
+
+•	Code stuck for 1.5 hours after fixing graph generator in multi hosting.
+
 
 
 Others
